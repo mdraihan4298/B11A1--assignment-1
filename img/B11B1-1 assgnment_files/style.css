@@ -48,18 +48,14 @@ nav {
   margin-top: 117px;
 }
 
-.backgraound-color{
-  display: flex;
-  gap: 64px;
-}
 header {
-  /* display: flex; */
+  display: flex;
   background-color: #c6e4d6;
   border-radius: 24px;
   width: 1280px;
   height: 560px;
   padding: 50px;
-  /* gap: 64px; */
+  gap: 64px;
    margin-left: 160px;
   margin-right: 160px;
   margin-top: 20px;
@@ -224,17 +220,7 @@ width: 410px;
 
 /* Lorem ipsum dolor style */
 
-
-
-
-.backgraoun-images{
-  background-image: url(img/images.png);
-  background-repeat: no-repeat;
-
-}
 .lorem-section{
- 
- 
     border: 1px solid  #0e0e0e26;
     padding: 48px 24px;
     margin-top: 80px;
@@ -297,7 +283,7 @@ font-size: 16px;
     border-radius: 8px;
 }
 .Satellite-section button:hover{
-    background-color:rgb(76, 192, 96);
+    background-color: #074925;
 }
 
 /* Donate Today style  */
@@ -367,11 +353,7 @@ margin-top: 24px;}
   
 }
 
-.other-btn{
-  text-align: center;
-}
-
-.other-btn button{
+.btn-1{
     width: 1032px;
     height: 64px;
     border: 1px solid  #0e0e0e26 ;
@@ -380,76 +362,5 @@ margin-top: 24px;}
     margin-left: 124px;
     margin-right: 124px;
    
-}
-
-
-.donate-btn{
-  text-align: center;
-  margin-top: 32px;
-}
-
-
-.donate-btn button:hover{
-  background-color: rgb(76, 192, 96);
-}
-.donate-btn button{
-  width: 151px;
-  height: 57px;
-  background-color: #006A50FF;
-  border-radius: 8px;
-  border: none;
-  font-size: 18px;
-  font-weight: 600;
-  color: #ffffff;
-  
-}
-
-/* Subscribe Newsletter start */
-
-
-.subscribe-section{
-  text-align: center;
-  background-color: #c6e4d6;
-  padding: 80px 256px;
-  width: 1280px;
-  height: 395px;
-  border-radius: 24px;
-  margin-top: 80px;
-}
-.subscribe-section h1{
-  font-size: 40px;
-  font-weight: bold;
-}
-
-.subscribe-section p{
-  font-size: 16px;
-  font-weight: 500;
-  color: #0E0E0EB3;
-  margin-top: 16px;
-}
-
-.subscribe-section .text{
-  width: 750px;
-  height: 56px;
-  padding-left: 40px;
-  margin-top: 24px;
-  border: none;
-  border-radius: 10px;
-  border: 1px solid  #0e0e0e26;
-
-}
-
-.subscribe-section .Subscribe{
-  width: 150px;
-  height: 56px;
-  background-color: #006A50FF;
-  font-size: 18px;
-  color: #ffffff;
-  border: none;
-  border-radius: 10px;
-  
-}
-.subscribe-section .Subscribe:hover{
-  background-color: rgb(76, 192, 96);
 }
 
