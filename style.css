@@ -1,0 +1,366 @@
+body {
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.work-sans-style {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.nav-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.nav-btn {
+  width: 116px;
+  height: 52px;
+  color: #006a50;
+  border-radius: 8px;
+  border: 1px solid #006a50;
+}
+
+.nav-btn:hover {
+  background-color: rgb(124, 177, 179);
+  color: #ffffff;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* header style */
+.header-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #0e0e0e80;
+}
+
+.header-dresscription {
+  font-size: 56px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+.header-section {
+  margin-top: 117px;
+}
+
+header {
+  display: flex;
+  background-color: #c6e4d6;
+  border-radius: 24px;
+  width: 1280px;
+  height: 560px;
+  padding: 50px;
+  gap: 64px;
+   margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 20px;
+}
+.header-btn {
+  width: 270px;
+  height: 56px;
+  background-color: #006a50;
+  color: #ffffff;
+  border-radius: 8px;
+  border: none;
+  font-size: 18px;
+  margin-top: 24px;
+}
+
+.header-btn:hover {
+  background-color: #069144;
+}
+header .img {
+  width: 474px;
+  height: 400px;
+  margin-top: 117px;
+}
+
+.Pillars {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 80px;
+}
+
+/* pillars style */
+
+.Pillars-section {
+  display: flex;
+  gap: 24px;
+}
+
+.pillars-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 24px;
+}
+
+.pillars-dresscription {
+  font-size: 16px;
+  font-weight: 600;
+  color: #0e0e0eb3;
+  margin-top: 12px;
+}
+
+.pillars-card {
+  border: 1px solid #0e0e0e26;
+  width: 302px;
+  height: 244px;
+  padding: 25px;
+  border-radius: 16px;
+  margin-top: 32px;
+}
+
+/* The Vision of Future style */
+.container h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 80px;
+}
+
+.container p {
+  font-size: 16px;
+  color: #0e0e0eb3;
+  marg  in-top: 24px;
+}
+
+.vision-card h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.vision-card p {
+  font-size: 16px;
+  color: #0e0e0eb3;
+}
+
+.vision-card .vision-btn {
+  width: 122px;
+  height: 41px;
+  background-color: #5490f5;
+  border-radius: 8px;
+  border: none;
+  color: #ffffff;
+}
+
+.vision-card .vision-btn:hover {
+  background-color: #1638f8;
+}
+
+/* vision-card-section-style */
+
+.vision-card-section {
+  display: flex;
+  gap: 24px;
+  margin-top: 32px;
+}
+.vision-card {
+width: 410px;
+  height: 325px;
+  background-color: #5490f533;
+  padding: 33px;
+  border-radius: 16px;
+}
+.vision-card h2 {
+  margin-top: 24px;
+}
+.vision-card p {
+  margin-top: 12px;
+}
+.vision-card button {
+  margin-top: 35px;
+}
+
+
+.vision-card-2{
+    width: 410px;
+  height: 325px;
+  background-color: #5490f533;
+  padding: 33px;
+  border-radius: 16px;
+}
+.vision-btn-back-color {
+  width: 122px;
+  height: 41px;
+  background-color: #09a15c;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  margin-top: 48px;
+}
+
+.vision-btn-back-color:hover {
+  background-color: #0c751a;
+}
+
+.vision-card-3 {
+  width: 410px;
+  height: 325px;
+  background-color: #f7ebcfff;
+  border-radius: 16px;
+  padding: 33px;
+}
+.vision-btn-back-color-yellow {
+  background-color: #ffc239ff;
+  width: 122px;
+  height: 41px;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  margin-top: 64px;
+}
+.vision-btn-back-color-yellow:hover {
+  background-color: rgb(228, 118, 27);
+}
+
+
+/* Lorem ipsum dolor style */
+
+.lorem-section{
+    border: 1px solid  #0e0e0e26;
+    padding: 48px 24px;
+    margin-top: 80px;
+    border-radius: 16px;
+
+}
+.lorem-section p{
+    font-size: 16px;
+    color: #0E0E0ECC;
+}
+
+.lorem-section h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 12px;
+}
+/* title-Recent-news style */
+.title-Recent-news h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+.title-Recent-news p{
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+/* Bangladesh Launches New Satellite style */
+
+.satelite-flex{
+    display: flex;
+    gap: 32px;
+    border: 1px solid  #0e0e0e26;
+    width: 1280px;
+    height: 402px;
+    border-radius: 24px;
+    padding: 48px;
+    margin-top: 32px;
+}
+.imges img{width: 408px;
+    height: 306px;
+    border-radius: 24px;
+
+}
+.Satellite-section h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+.Satellite-section p{
+font-size: 16px;
+ color: #0e0e0eb3;
+}
+.Satellite-section button{
+    width: 139px;
+    height: 48px;
+    background-color: #006A50FF;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+}
+.Satellite-section button:hover{
+    background-color: #074925;
+}
+
+/* Donate Today style  */
+.Donate-section{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.Donate-dresscription{
+    font-size: 16px;
+    color:  #0e0e0eb3;
+margin-top: 24px;}
+
+.donate-centar{
+    text-align: center;
+}
+
+/* Amount section style */
+
+.Amount-section{
+    display: flex;
+   justify-content: center;
+    gap: 24px;
+   padding-top: 32px;
+    
+}
+
+.Taka{
+   
+    border: 1px solid  #0e0e0e26 ;
+   margin: 10px 0;
+   width: 240px;
+   height: 128px;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   padding-top: 40px;
+   border-radius: 16px;
+   color: black
+
+}
+
+.Taka-background-changed{
+    margin: 10px 0;
+    width: 240px;
+    height: 128px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 40px;
+    border-radius: 16px;
+}
+
+.Taka-background-changed{
+    background-color: #86e2b7;
+    margin: 10px 0;
+    width: 240px;
+    height: 128px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 40px;
+    border-radius: 16px;
+}
+.Taka-background-changed:hover{
+    background-color: #196642;
+  
+}
+
+.btn-1{
+    width: 1032px;
+    height: 64px;
+    border: 1px solid  #0e0e0e26 ;
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 124px;
+    margin-right: 124px;
+   
+}
+
