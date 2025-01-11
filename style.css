@@ -453,3 +453,20 @@ margin-top: 24px;}
   background-color: rgb(76, 192, 96);
 }
 
+
+.others-section{
+  text-align: center;
+}
+.others-section h2{
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 50px;
+
+}
+
+.others-section .width{
+  width: 1122px;
+  margin-top: 32px;
+}
+
+
